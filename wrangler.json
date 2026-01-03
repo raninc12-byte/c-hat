@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "c-hat",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2c311e8c-566b-4c79-81fc-96a20579eea2",
+			"database_name": "lebron"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
